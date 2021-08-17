@@ -1,5 +1,3 @@
 # Frontend Task 2
 
-Add Your Name Here After Submission: 
-- Fadayini Priscilla
-- Sanyaolu Bukunmi
+Add Your Name Here After Submission:
