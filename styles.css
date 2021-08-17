@@ -1,0 +1,36 @@
+form{
+    width: 300px;
+}
+body{
+    margin: 220px;
+    background: linear-gradient(45deg, red, blue);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h1{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h2{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+textarea#quantity{
+    grid-row: 2;
+    columns: 30;
+    resize: none;
+}
+input, textarea{
+    outline-style: none;
+    border: 1px solid rgba(255, 11, 182, 0.877);
+}
+input:focus, textarea:focus{
+    box-shadow: 0 0 4px rgba(255, 11, 182, 0.877);
+    border: 1px solid rgba(255, 11, 182, 0.5);
+}
+textarea{
+    padding-left: 20px;
+    padding-right: 20px;
+}
